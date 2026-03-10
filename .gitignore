@@ -1,0 +1,10 @@
+# Blender backup files
+*.blend1
+*.blend2
+*.blend[0-9]*
+*.recover
+*.autosave
+
+# Temporary files
+/render/
+/cache/
