@@ -1,4 +1,4 @@
-# 3d-landscape
+# stylized-landscape-env
 A performance-optimized 3D environment modeled in Blender. Focus on clean topology and lightweight assets for web/mobile integration.
 ## ⚖️ License & Usage
 This work is the intellectual property of the author. 
