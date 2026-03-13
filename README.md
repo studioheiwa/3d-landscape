@@ -9,11 +9,11 @@ This project focuses on **Environmental Architecture** and **Asset Optimization*
 - **Style:** Stylized / Low-Poly
 - **Software:** Blender 3D
 
-##Interactive Demo
+## Interactive Demo
 You can view the interactive 3D model live in your browser here: 
 [https://studioheiwa.github.io/3d-landscape/](https://studioheiwa.github.io/3d-landscape/)
 
-## ⚖️ License & Usage
+##  License & Usage
 This work is the intellectual property of the author. 
 
 - **Personal Use:** Allowed.
